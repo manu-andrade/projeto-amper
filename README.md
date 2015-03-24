@@ -8,34 +8,34 @@ Tornar-se referência na venda de materiais para automação residencial e assim
 
 ##Requisitos funcionais e não funcionais:
 *Requisitos não funcionais
-*Usabilidade
-*Disponibilidade
-*Confiabilidade
-*Segurança
+Usabilidade;
+Disponibilidade;
+Confiabilidade;
+Segurança;
 
 ##Os requisitos do back-end:
-*CRUD de Produtos
-*CRUD de Promoções
-*CRUD de Clientes
-*CRUD de emails
-*Visualizar Relatório
+*CRUD de Produtos;
+CRUD de Promoções;
+CRUD de Clientes;
+CRUD de emails;
+Visualizar Relatório;
 
 ##Os requisitos funcionais do front-end:
-*Visualizar Produtos
-*Visualizar Promoções
-*Visualizar Fórum
-*Comentar no Fórum
-*Excluir Mensagem do Fórum
-*Diagrama de casos de uso
+*Visualizar Produtos;
+Visualizar Promoções;
+Visualizar Fórum;
+Comentar no Fórum;
+Excluir Mensagem do Fórum;
+Diagrama de casos de uso;
  
 
 ##Especificação da arquitetura do projeto:
-*Ruby 2.1.5
-*Rails 4.1.2
-*Banco Postgresql 9.3.5
-*Bootstrap
+*Ruby 2.1.5;
+Rails 4.1.2;
+Banco Postgresql 9.3.5;
+Bootstrap;
 
 ##Outros
-*Interfaces (outras aplicações)
-*Cálculo de Frete
-*Rastreamento de Produtos
+*Interfaces (outras aplicações);
+Cálculo de Frete;
+Rastreamento de Produtos;
